@@ -173,7 +173,6 @@ console.log("\n========== PROGRAM 6 ==========");
 // BREAK
 // Completely stops the loop
 
-console.log("Using break:");
 
 for (let i = 1; i <= 10; i++) {
 
