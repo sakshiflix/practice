@@ -203,8 +203,6 @@ for (let i = 1; i <= 10; i++) {
 // PROGRAM 7: WHILE LOOP
 // ============================================================
 
-console.log("\n========== PROGRAM 7 ==========");
-
 let count = 1;
 
 while (count <= 10) {
